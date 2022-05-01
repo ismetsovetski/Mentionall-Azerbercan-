@@ -1,6 +1,6 @@
 {
       "name": "Tagger bot",
-      "description": "Gece kuşu tagger",
+      "description": "Karabakh tagger",
       "keywords": [
          "telegram",
          "tagger",
@@ -8,7 +8,7 @@
          "mutsuz_panda",
          "Richard_Ramirezzblog"
       ],   
-   "repository": "https://github.com/amahocam/Mentionall-Azerbercan-",
+   "repository": "https://github.com/ismetsovetski/Mentionall-Azerbercan-",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
