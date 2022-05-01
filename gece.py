@@ -1,5 +1,6 @@
 #################################
-# Gece kuşu Tagger Bot #
+# Karabakh
+ Tagger Bot #
 #################################
 # Repo Sahibi - mutsuz_panda 
 # Telegram - t.me/Richard_Ramirezz
